@@ -6,3 +6,7 @@ Self Test/
 17flowers.tgz
 JEOPARDY_CSV.csv
 creditcard.csv
+~/tensorflow_datasets/mnist/3.0.1/features.json
+~/tensorflow_datasets/mnist/3.0.1/mnist-test.tfrecord-00000-of-00001
+~/tensorflow_datasets/mnist/3.0.1/mnist-train.tfrecord-00000-of-00001
+~/tensorflow_datasets/mnist/3.0.1/dataset_info.json
