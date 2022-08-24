@@ -14,3 +14,4 @@ y_train.npy
 x_train.npy
 y_test.npy
 x_test.npy
+fashionmnist/
